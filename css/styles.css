@@ -6,3 +6,17 @@ main {
 	width: 980px;
 	margin: 0 auto;
 }
+
+#slider {
+	width: 320px;
+	height: 180px;
+	background-color: #333333;
+}
+
+#next {
+
+}
+
+#prev {
+	
+}
